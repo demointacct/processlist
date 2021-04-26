@@ -1,6 +1,6 @@
 #Add processlist.py in a windows system, preferably in a drive other than c
 
-#cd f:
+#Suppose you have placed the script in f:, then cd to f:
 
 #f:\> py processlist.py
 
